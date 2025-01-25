@@ -13,8 +13,8 @@ body {
 #header {
   position:fixed;
   right:0%;
-  width:30%;
-  height:8%;
-  background:purple;
+  width:100%;
+  height:9%;
+  background:#AB47BC;
   top:0%;
 } 
